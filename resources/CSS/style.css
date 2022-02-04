@@ -10,6 +10,15 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 50px;
     color: #ffffff;
 }
+.head-second {
+    font-weight: normal;
+    font-size: 42px;
+    color: #ffffff;
+}
+.head-sub {
+    font-size: 21px;
+    color: gray;   
+}
 
 .link-cta
 {
